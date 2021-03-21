@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Folder Structure
+
+### Api
+Add common api's here...api's arching multiple files
+
+### Assets
+Add react project assets here
+
+### Common
+Add common data here such as constants,route's related info etc
+
+### Components
+Add common components here such as card,panel,tooltip,modal,loading,boneyard etc
+
+### Hooks
+Add common hooks here such as loading data async,inifite scroll,pagination hooks etc
+
